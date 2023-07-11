@@ -1,4 +1,4 @@
-@Library('Devops_lib@master')
+@Library('DevOps_Library@master')
 node
 {
    example("Billaraman")
